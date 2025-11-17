@@ -40,7 +40,7 @@ export default function Home() {
 
       <div id="hero" data-section="hero">
         <HeroSplit
-          title="Expert Breast Augmentation Surgery"
+          title="Unleash Your Inner Superhero Powers"
           description="Transform your confidence with personalized breast enhancement procedures performed by board-certified plastic surgeons. Schedule your consultation today."
           tag="Board-Certified Surgeons"
           tagIcon={Award}
